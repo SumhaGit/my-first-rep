@@ -1,2 +1,3 @@
 # my-first-rep
-prctice account for learning Git
+practice account for learning Git
+follow cource instruction
